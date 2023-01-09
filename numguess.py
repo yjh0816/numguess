@@ -10,10 +10,10 @@ print("The answer is", answer)
 username = input("Input your name: ")
 
 # Say hello to user, using username
-print("Nice to meet you, ",username)
+print("Nice to meet you,",username)
 
 # Get user guess from user
-guess = int(input("Input your guess: "))
+guess = int(input("Input your guess(between 1~100): "))
 
 # Print guess
 print("User's guess is", guess)
