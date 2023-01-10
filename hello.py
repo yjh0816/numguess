@@ -10,5 +10,6 @@ animals = ['cat','dog','dragon']
 menues = [
     'pork_cuttlet',
     'Jeyuk',
-    'chicken'
+    'chicken',
+    'bulgogy',
 ]
